@@ -1,0 +1,49 @@
+body{
+    background-image: url(img/backg.webp);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.regform{
+    color:white;
+    width:500px;
+    padding:10px 20px 30px;
+    background-color:rgb(0,0,0,0.5);
+    margin:180px auto;
+    border-radius:10px;
+}
+h2{ color:#4f345a;
+    text-align:center
+}
+.input input{
+    width:100%;
+    font-size:larger;
+    border:1px solid #b298dc;
+    box-shadow:2px;
+    border-radius:5px;
+    padding:10px 10px;
+    box-sizing: border-box;
+    margin:5px 0px 10px;
+
+
+}
+input:focus{
+    background-color: #b8d0eb;
+}
+
+.btn{
+    text-align: center;
+}
+button{
+    background-color :#b8d0eb;
+    color:white;
+    margin-top:10px;
+    padding:10px 10px;
+    border-radius: 5px;
+    border:1px solid #b8d0eb;
+    font-size:18px;
+}
+
+.radio input{
+    accent-color:#b8d0eb ;
+
+}
