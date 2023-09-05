@@ -1,5 +1,5 @@
 # CSS
-worked with css3
+Worked with CSS3
 
 In this repo, I shared all my learning and projects I did using HTML and CSS.
 Let me share the link of Websites I made Learning these Skills.
